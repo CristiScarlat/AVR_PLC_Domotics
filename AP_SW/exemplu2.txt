@@ -1,0 +1,42 @@
+test/192.168.0.10/INT BAIE/SENS MISCARE/Digital IN 2/Digital IN 3/Digital IN 4/Digital IN 5/Digital IN 6/Digital IN 7/Senzor nivel /Analog IN 2/Analog IN 3/Analog IN 4/bec baie/aspersor/pompa apa irigare/bec intrare/bazin apa/Digital OUT 5/Digital OUT 6/Digital OUT 7/r0d0v0d1v1r1c21-21-22-23-v0r2t20-25-v0r4a1214-408-v0
+bec baie:
+Varianta 1:INT BAIE->|
+Varianta 2:SENS MISCARE->|
+Varianta 3:-
+Varianta 4:-
+aspersor:
+Varianta 1:Ceas: ON = 21:22 OFF = 21:23->|
+Varianta 2:-
+Varianta 3:-
+Varianta 4:-
+pompa apa irigare:
+Varianta 1:Temperatura: ON = 20 OFF = 25C->|
+Varianta 2:-
+Varianta 3:-
+Varianta 4:-
+bec intrare:
+Varianta 1:|
+Varianta 2:-
+Varianta 3:-
+Varianta 4:-
+bazin apa:
+Varianta 1:Senzor nivel : ON = 1.0V<->2.0V->|
+Varianta 2:-
+Varianta 3:-
+Varianta 4:-
+Digital OUT 5:
+Varianta 1:-
+Varianta 2:-
+Varianta 3:-
+Varianta 4:-
+Digital OUT 6:
+Varianta 1:-
+Varianta 2:-
+Varianta 3:-
+Varianta 4:-
+Digital OUT 7:
+Varianta 1:-
+Varianta 2:-
+Varianta 3:-
+Varianta 4:-
+

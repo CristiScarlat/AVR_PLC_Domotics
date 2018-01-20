@@ -1,0 +1,31 @@
+
+
+Version:	3.8
+CmdLine:	D:\Automat_Programabil_Licenta\AP_SW\IDE_APSD.exe --l4j-debug
+WOW64:		yes
+Working dir:	D:\Automat_Programabil_Licenta\AP_SW\.
+32-bit search:	SOFTWARE\JavaSoft\Java Runtime Environment...
+Check:		SOFTWARE\JavaSoft\Java Runtime Environment\1.8
+Ignore:		1.8
+Check:		SOFTWARE\JavaSoft\Java Runtime Environment\1.8.0_77
+Ignore:		1.8.0_77
+32-bit search:	SOFTWARE\IBM\Java2 Runtime Environment...
+Error msg:	This application requires a Java Runtime Environment 1.6.0_1 - 1.6.0_31 (32-bit)
+Open URL:	http://java.com/download
+
+
+Version:	3.8
+CmdLine:	D:\Automat_Programabil_Licenta\AP_SW\IDE_APSD.exe --l4j-debug
+WOW64:		yes
+Working dir:	D:\Automat_Programabil_Licenta\AP_SW\.
+32-bit search:	SOFTWARE\JavaSoft\Java Runtime Environment...
+Check:		SOFTWARE\JavaSoft\Java Runtime Environment\1.8
+Ignore:		1.8
+Check:		SOFTWARE\JavaSoft\Java Runtime Environment\1.8.0_77
+Check launcher:	C:\Program Files (x86)\Java\jre1.8.0_77\bin\javaw.exe (OK)
+Match:		1.8.0_77
+Runtime used:	1.8.0_77 (32-bit)
+Launcher:	C:\Program Files (x86)\Java\jre1.8.0_77\bin\javaw.exe
+Launcher args:	-jar "D:\Automat_Programabil_Licenta\AP_SW\IDE_APSD.exe"
+Args length:	56/32768 chars
+Exit code:	0

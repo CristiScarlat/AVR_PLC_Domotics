@@ -1,0 +1,43 @@
+Exemplu_1/192.168.0.1/Digital IN 0/Digital IN 1/Digital IN 2/Digital IN 3/Digital IN 4/Digital IN 5/Digital IN 6/Digital IN 7/Analog IN 1 /Analog IN 2/Analog IN 3/Analog IN 4/Digital OUT 0/Digital OUT 1/Digital OUT 2/Digital OUT 3/Digital OUT 4/Digital OUT 5/Digital OUT 6/Digital OUT 7/r0d0d1v0d2d3v1r1d4d5v0d6d7v1r2a1214-401-v1r3c07-08-30-00-v0t20-24-v1
+Digital OUT 0:
+Varianta 1:Digital IN 0->Digital IN 1->|
+Varianta 2:Digital IN 2->Digital IN 3->|
+Varianta 3:|
+Varianta 4:|
+Digital OUT 1:
+Varianta 1:Digital IN 4->Digital IN 5->|
+Varianta 2:Digital IN 6->Digital IN 7->|
+Varianta 3:-
+Varianta 4:-
+Digital OUT 2:
+Varianta 1:-
+Varianta 2:Analog IN 1 : ON = 1.0V<->2.0V->|
+Varianta 3:-
+Varianta 4:-
+Digital OUT 3:
+Varianta 1:Ceas: ON = 07:30 OFF = 08:00->|
+Varianta 2:Temperatura: ON = 20 OFF = 24C->|
+Varianta 3:-
+Varianta 4:-
+Digital OUT 4:
+Varianta 1:-
+Varianta 2:-
+Varianta 3:-
+Varianta 4:-
+Digital OUT 5:
+Varianta 1:-
+Varianta 2:-
+Varianta 3:-
+Varianta 4:-
+Digital OUT 6:
+Varianta 1:-
+Varianta 2:-
+Varianta 3:-
+Varianta 4:-
+Digital OUT 7:
+Varianta 1:-
+Varianta 2:-
+Varianta 3:-
+Varianta 4:-
+
+

@@ -1,0 +1,42 @@
+test/192.168.0.50/Digital IN 0/Digital IN 1/Digital IN 2/Digital IN 3/Digital IN 4/Digital IN 5/Digital IN 6/Digital IN 7/Analog IN 1 /Analog IN 2/Analog IN 3/Analog IN 4/Digital OUT 0/Digital OUT 1/Digital OUT 2/Digital OUT 3/Digital OUT 4/Digital OUT 5/Digital OUT 6/Digital OUT 7/r0d0v0r1d0v0r2a1214-408-v0r3a2408-622-v0r4a3615-816-v0r5a4816-1023-v0r6c13-13-08-10-v0r7l298-790-v0
+Digital OUT 0:
+Varianta 1:Digital IN 0->|
+Varianta 2:-
+Varianta 3:-
+Varianta 4:-
+Digital OUT 1:
+Varianta 1:Digital IN 0->|
+Varianta 2:-
+Varianta 3:-
+Varianta 4:-
+Digital OUT 2:
+Varianta 1:Analog IN 1 : ON = 1.0V<->2.0V->|
+Varianta 2:-
+Varianta 3:-
+Varianta 4:-
+Digital OUT 3:
+Varianta 1:Analog IN 2: ON = 2.0V<->3.0V->|
+Varianta 2:-
+Varianta 3:-
+Varianta 4:-
+Digital OUT 4:
+Varianta 1:Analog IN 3: ON = 3.0V<->4.0V->|
+Varianta 2:-
+Varianta 3:-
+Varianta 4:-
+Digital OUT 5:
+Varianta 1:Analog IN 4: ON = 4.0V<->5.0V->|
+Varianta 2:-
+Varianta 3:-
+Varianta 4:-
+Digital OUT 6:
+Varianta 1:Ceas: ON = 13:08 OFF = 13:10->|
+Varianta 2:-
+Varianta 3:-
+Varianta 4:-
+Digital OUT 7:
+Varianta 1:Lumina: ON = 298 OFF = 790->|
+Varianta 2:-
+Varianta 3:-
+Varianta 4:-
+
